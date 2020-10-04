@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNPTgVBUb5JOKC1EfUmZ7Zs0PKgljmLZIppBr8y0Q2ZFuk03+GqJ4aei6ESJ2IFpIs1O0la7WiwlkPuWvkuTHA==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\eighttestcore\\DOVTEST.DATA\\dovtest.DATA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
